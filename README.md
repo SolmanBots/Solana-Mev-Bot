@@ -1,7 +1,6 @@
 # Solana-Mev-Bot
 
-Contact Dev for source code
-Telegram: @SolmanBots
+
 
 Auto and manual sniper Solana Raydium Bot
 
@@ -18,4 +17,8 @@ Auto and manual sniper Solana Raydium Bot
 * Anti rug check
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Z7PExj_v-ZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+**VIDEO DEMO: https://www.youtube.com/watch?v=0OOdhBznoAY**
+
+
+**Contact Dev for source code
+Telegram: @SolmanBots**
