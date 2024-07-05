@@ -18,4 +18,3 @@ Auto and manual sniper Solana Raydium Bot
 * Anti rug check
 
 
-<video src="[https://github.com/rayytsn9/ROBOTT/assets/79029536/62f541aa-aa8c-43f5-9ead-4b7a2e0d7c2a](https://www.youtube.com/watch?v=0OOdhBznoAY)" width="300" />
